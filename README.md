@@ -1,4 +1,3 @@
-# Smitaig
 # Hi, I'm Smita 👋
 
 ## 🎓 Professional Summary
